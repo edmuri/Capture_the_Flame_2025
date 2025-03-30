@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o flag_checker chal.c
+gcc -g -O0 -Wall -Wextra -o flag_checker3 flag_checker.c
